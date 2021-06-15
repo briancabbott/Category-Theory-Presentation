@@ -1,4 +1,0 @@
-package cats
-package syntax
-
-trait UnorderedTraverseSyntax extends UnorderedTraverse.ToUnorderedTraverseOps

@@ -1,3 +1,0 @@
-name: categories
-depend: standard-library
-include: .

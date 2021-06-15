@@ -1,9 +1,0 @@
-{
-  "extends": "dtslint/dtslint.json",
-  "rules": {
-    "no-useless-files": false,
-    "interface-over-type-literal": false,
-    "no-arg": false,
-    "no-var-keyword": false
-  }
-}

@@ -1,3 +1,0 @@
-*.org	diff=org
-*.tex	diff=tex
-*.html diff=html

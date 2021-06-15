@@ -1,1 +1,0 @@
-FFTs for functor combinators

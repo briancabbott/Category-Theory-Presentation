@@ -1,5 +1,0 @@
-(tests
- (names test_bastet)
- (package bastet)
- (libraries alcotest qcheck qcheck-core qcheck-alcotest fmt bastet)
- (action (run %{test})))

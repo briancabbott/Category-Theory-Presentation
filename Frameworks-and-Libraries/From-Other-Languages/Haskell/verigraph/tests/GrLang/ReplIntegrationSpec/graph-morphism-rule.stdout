@@ -1,4 +1,0 @@
-Foo == fb:dom()	true
-Foo ~= fb:cod()	true
-fb .. bf ~= Bar:identity()	true
-bf .. fb = Foo:identity()	true
